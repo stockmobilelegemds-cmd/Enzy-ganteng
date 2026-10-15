@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "",
-        "key": "pangeran-nzy",
-        "expirydate": "30-12-8025",
-        "Allowoffline": true
-    },
-    {
         "device_id": "65bd0c6f432d5c41",
         "key": "dwayy-key",
         "expirydate": "01-01-9999",

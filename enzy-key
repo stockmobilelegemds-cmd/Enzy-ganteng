@@ -1,5 +1,11 @@
 [
     {
+        "device_id": "67d14e6861ecb3ca",
+        "key": "SPICY.7j5gt3",
+        "expirydate": "01-01-9999",
+        "Allowoffline": true
+    },
+    {
         "device_id": "65bd0c6f432d5c41",
         "key": "dwayy-key",
         "expirydate": "01-01-9999",
